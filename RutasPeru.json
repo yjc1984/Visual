@@ -41,7 +41,7 @@
     {"source": "Lima", "target": "Asuncion", "value": 7},
     {"source": "Lima", "target": "Buenos Aires", "value": 14},
     {"source": "Lima", "target": "Cali", "value": 5},
-    {"source": "Lima", "target": "Bogotá", "value": 35},    
+    {"source": "Lima", "target": "Bogota", "value": 35},    
     {"source": "Lima", "target": "La Habana", "value": 5},
     {"source": "Lima", "target": "La Paz", "value": 7},
     {"source": "Lima", "target": "Medellin", "value": 7},
