@@ -6,7 +6,7 @@
     {"id": "Barrancabermeja", "group": 1},
     {"id": "Barranquilla", "group": 1},
     {"id": "Bucaramanga", "group": 1},
-    {"id": "Cali", "group": 1},
+    {"id": "Cali", "group": 1},+
     {"id": "Cartagena", "group": 1},
     {"id": "Cucuta", "group": 1},
     {"id": "Florencia", "group": 1},
@@ -15,7 +15,7 @@
     {"id": "Londres", "group": 2},
     {"id": "Madrid", "group": 2},
     {"id": "Manizales", "group": 1},
-    {"id": "Medellin", "group": 1},
+    {"id": "Medellin", "group": 1},+
     {"id": "Monteria", "group": 1},
     {"id": "Neiva", "group": 1},
     {"id": "Pasto", "group": 1},
@@ -27,49 +27,49 @@
     {"id": "Tumaco", "group": 1},
     {"id": "Valledupar", "group": 1},
     {"id": "Villavicencio", "group": 1},
-    {"id": "Lima", "group": 3},
-    {"id": "Arequipa", "group": 3},
-    {"id": "Cusco", "group": 3},
-    {"id": "Iquitos", "group": 3},
-    {"id": "Juliaca", "group": 3},
-    {"id": "Piura", "group": 3},
-    {"id": "Trujillo", "group": 3},
-    {"id": "Puerto Maldonado", "group": 3},
+    {"id": "Lima", "group": 3},+
+    {"id": "Arequipa", "group": 3}, +
+    {"id": "Cusco", "group": 3},+
+    {"id": "Iquitos", "group": 3},+
+    {"id": "Juliaca", "group": 3},+
+    {"id": "Piura", "group": 3},+
+    {"id": "Trujillo", "group": 3},+
+    {"id": "Puerto Maldonado", "group": 3},+
     {"id": "Aruba", "group": 4},
-    {"id": "Buenos Aires", "group": 4},
+    {"id": "Buenos Aires", "group": 4},+
     {"id": "Curazao", "group": 4},
-    {"id": "La Habana", "group": 5},
-    {"id": "La Paz", "group": 4},
-    {"id": "Montevideo", "group": 4},
+    {"id": "La Habana", "group": 5},+
+    {"id": "La Paz", "group": 4},+
+    {"id": "Montevideo", "group": 4},+
     {"id": "Punta Cana", "group": 5},
-    {"id": "Rio de Janeiro", "group": 4},
+    {"id": "Rio de Janeiro", "group": 4},+
     {"id": "San Juan", "group": 5},
-    {"id": "Santo Domingo", "group": 5},
+    {"id": "Santo Domingo", "group": 5},+
     {"id": "Santiago de Chile", "group": 4},
-    {"id": "São Paulo", "group": 4},
-    {"id": "Asuncion", "group": 4},
-    {"id": "Porto Alegre", "group": 4},
-    {"id": "Santa Cruz de la Sierra", "group": 4},
-    {"id": "Coca", "group": 3},
-    {"id": "Isla Baltra", "group": 3},
-    {"id": "San Cristobal", "group": 3},
+    {"id": "São Paulo", "group": 4},+
+    {"id": "Asuncion", "group": 4},+
+    {"id": "Porto Alegre", "group": 4},+
+    {"id": "Santa Cruz de la Sierra", "group": 4},+
+    {"id": "Coca", "group": 3},+
+    {"id": "Isla Baltra", "group": 3},+
+    {"id": "San Cristobal", "group": 3},+
     {"id": "Cancun", "group": 5},
     {"id": "Ciudad de Guatemala", "group": 5},
-    {"id": "Ciudad de Mexico", "group": 5},
+    {"id": "Ciudad de Mexico", "group": 5},+
     {"id": "Panama", "group": 5},
     {"id": "Belice", "group": 5},
-    {"id": "Guayaquil", "group": 3},
+    {"id": "Guayaquil", "group": 3},+
     {"id": "Liberia", "group": 5},
     {"id": "Managua", "group": 5},
-    {"id": "Quito", "group": 3},
-    {"id": "San Jose de Costa Rica", "group": 5},
+    {"id": "Quito", "group": 3},+
+    {"id": "San Jose de Costa Rica", "group": 5},+
     {"id": "San Pedro de Sula", "group": 5},
     {"id": "Tegucigalpa", "group": 5},
-    {"id": "San Salvador", "group": 5},
+    {"id": "San Salvador", "group": 5},+
     {"id": "Roatan", "group": 5},
     {"id": "Boston", "group": 6},
     {"id": "Fort Lauderdale", "group": 6},
-    {"id": "Miami", "group": 6},
+    {"id": "Miami", "group": 6},+
     {"id": "Nueva York", "group": 6},
     {"id": "Orlando", "group": 6},
     {"id": "Washington", "group": 6},
@@ -89,6 +89,7 @@
     {"source": "Lima", "target": "Asuncion", "value": 7},
     {"source": "Lima", "target": "Buenos Aires", "value": 14},
     {"source": "Lima", "target": "Cali", "value": 5},
+    {"source": "Lima", "target": "Bogotá", "value": 35},    
     {"source": "Lima", "target": "La Habana", "value": 5},
     {"source": "Lima", "target": "La Paz", "value": 7},
     {"source": "Lima", "target": "Medellin", "value": 7},
@@ -103,7 +104,6 @@
     {"source": "Lima", "target": "Quito", "value": 28},
     {"source": "Lima", "target": "San Jose de Costa Rica", "value": 7},
     {"source": "Lima", "target": "San Salvador", "value": 7},
-    {"source": "Lima", "target": "Santo Domingo", "value": 14},
     {"source": "Lima", "target": "Miami", "value": 21},
     {"source": "Cusco", "target": "Puerto Maldonado", "value": 4},
     {"source": "Quito", "target": "Coca", "value": 2},
